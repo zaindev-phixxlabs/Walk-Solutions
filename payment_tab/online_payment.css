@@ -34,7 +34,7 @@
             overflow-x: hidden;
         }
 
-        .container {
+        #container {
             max-width: 1300px;
         }
 
